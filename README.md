@@ -6,5 +6,3 @@
 - [Discord](https://discord.com/users/694817835209326652) (LordImmaculate)
 
 ![lordimmaculate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordimmaculate&theme=rose_pine&show_icons=true&hide_border=true&layout=compact)
-
-![lordimmaculate's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lordimmaculate&theme=rose_pine&hide_border=true)
