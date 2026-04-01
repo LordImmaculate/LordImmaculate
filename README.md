@@ -7,4 +7,4 @@
 - If you want to message me:
 - [Discord](https://discord.com/users/694817835209326652) (LordImmaculate)
 
-![lordimmaculate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordimmaculate&theme=rose_pine&show_icons=true&hide_border=true&layout=compact)
+[![lordimmaculate's Top Languages](https://github-readme-stats.hackclub.dev/api/wakatime?username=7372&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)](https://github-readme-stats.hackclub.dev/api/wakatime?username=7372&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
